@@ -1,0 +1,16 @@
+[StartTime]
+wheel_shaft_simplified-Static 2.MFC=2s
+[SolverState]
+wheel_shaft_simplified-Static 2.MFC=2
+[MainFrame]
+wheel_shaft_simplified-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+wheel_shaft_simplified-Static 2.MFC=No
+[SolverType]
+wheel_shaft_simplified-Static 2.MFC=Linear Analysis
+[StudyType]
+wheel_shaft_simplified-Static 2.MFC=0
+[StudyName]
+wheel_shaft_simplified-Static 2.MFC=Static 2
+[Solver]
+wheel_shaft_simplified-Static 2.MFC=Sparse
